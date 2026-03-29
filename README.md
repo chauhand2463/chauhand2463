@@ -59,7 +59,7 @@ Kernels • OS Internals • Control Systems • Blockchain • Intelligent Syst
 ## 📫 Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/dhairy-chauhan-448458364  
-- 📸 Instagram: (Add your link here)  
+- 📸 Instagram: 
 
 ---
 
