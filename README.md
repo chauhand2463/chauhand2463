@@ -34,7 +34,7 @@ From building AI models and decentralized apps to low-level embedded programming
 ## 🛠️ Tech Stack
 
 ### 💻 Languages and Libraries
-C • C++ • Rust • Python • tensorflow • Bash • pytorch • matplotlib  
+C • C++ • Python • tensorflow • Bash • pytorch • matplotlib  
 
 ### ⚙️ Tools / Platforms
 PlatformIO • VS Code • Git & GitHub • Linux  
