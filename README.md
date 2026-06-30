@@ -41,15 +41,19 @@
 ## 📊 Developer Metrics & Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chauhand2463&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=chauhand2463&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" alt="trophy graph" />
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=chauhand2463&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" />
+  <!-- GitHub Trophies Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=chauhand2463&theme=dracula&margin-w=15&margin-h=15" alt="trophy graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&locale=en&theme=dracula" height="170" alt="core statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhand2463&show_icons=true&locale=en&layout=compact&theme=dracula" height="170" alt="top languages tool" />
+  <!-- Core Profile Statistics Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&locale=en&theme=dracula" alt="core statistics" />
+  <!-- Top Languages Distribution Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhand2463&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top languages tool" />
 </div>
 
 ###
