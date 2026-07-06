@@ -39,7 +39,7 @@
 
 ---
 
-## 🎮 Arcade Animation
+## 🎮 Commit TImeline 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph-dark.svg">
