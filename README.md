@@ -5,7 +5,7 @@ Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=chauhand2463&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -56,9 +56,9 @@ Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhand2463&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,7 +68,7 @@ Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=chauhand2463&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +78,7 @@ Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chauhand2463&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -88,7 +88,7 @@ Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhand2463&theme=tokyo-night"/>
 
 </p>
 
@@ -99,9 +99,9 @@ Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake.svg">
 </picture>
 
 </p>
