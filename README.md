@@ -1,129 +1,75 @@
-<h1 align="center">Hi 👋, I'm Dhairy Chauhan</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Engineering Student • AI/ML • Security • Web3 • Backend Systems
-</h3>
+# Hi 👋, I'm Dhairy Chauhan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chauhand2463&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<b>Computer Engineering Student • AI/ML • Cyber Security • Web3 • Backend Systems</b>
 
-<p align="center">
-<b>विज्ञानं परमं बलम्</b><br>
-<i>Knowledge is the Supreme Power</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=chauhand2463&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/chauhand2463?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/chauhand2463?style=for-the-badge"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer;Backend+Developer;Cyber+Security+Enthusiast;Remote+Sensing+Researcher;Always+Learning"/>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,typescript,solidity,nextjs,nestjs,tailwind,pytorch,tensorflow,docker,linux,aws,gcp,postgres,redis,git,github,postman,vscode&perline=11"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/dhairy-chauhan-448458364">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/dkc___2463">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+🎓 B.Tech Computer Engineering&nbsp;&nbsp;|&nbsp;&nbsp;🤖 AI / ML / Computer Vision&nbsp;&nbsp;|&nbsp;&nbsp;🔐 Cyber Security & DevSecOps
+<br/>
+🌐 Web3 & Smart Contracts&nbsp;&nbsp;|&nbsp;&nbsp;⚙️ High-performance backend systems&nbsp;&nbsp;|&nbsp;&nbsp;🛰️ Remote sensing & cloud removal research&nbsp;&nbsp;|&nbsp;&nbsp;🐧 Linux enthusiast
 
 ---
 
-# 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🤖 AI / Machine Learning
-- 🛰 Remote Sensing
-- ☁ Cloud Removal Research
-- 🔐 Cyber Security
-- 🌐 Web3 & Smart Contracts
-- ⚡ High Performance Backend Development
-- 🐧 Linux Systems Programming
-- 🧠 Deep Learning
-- 📊 Computer Vision
-- ⚙ DevSecOps
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,javascript,typescript,html,css,react,nextjs,nodejs,nestjs,tailwind,tensorflow,pytorch,docker,kubernetes,linux,aws,gcp,postgres,mysql,mongodb,redis,git,github,postman,vscode,bash,solidity&perline=8"/>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhand2463&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=chauhand2463&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=chauhand2463&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhand2463&theme=tokyo-night"/>
 
-</p>
-
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
+## 🎮 Arcade Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-</p>
+---
+
+## 📈 Profile Summary Cards
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhand2463&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chauhand2463&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chauhand2463&theme=tokyonight"/>
 
 ---
 
-# ⚡ Current Focus
+## 🎯 Current Focus
 
-- Computer Vision
-- Remote Sensing
-- Deep Learning
-- LLM Fine-Tuning
-- Backend Engineering
-- Security Automation
-- Cloud Computing
+AI Agents&nbsp;&nbsp;|&nbsp;&nbsp;Remote Sensing&nbsp;&nbsp;|&nbsp;&nbsp;Deep Learning&nbsp;&nbsp;|&nbsp;&nbsp;System Design&nbsp;&nbsp;|&nbsp;&nbsp;Web3&nbsp;&nbsp;|&nbsp;&nbsp;Backend Engineering&nbsp;&nbsp;|&nbsp;&nbsp;Open Source
 
 ---
 
-<p align="center">
+## 📫 Connect
 
-<i>
-Always Learning • Always Building
-</i>
+[LinkedIn](https://linkedin.com/in/dhairy-chauhan-448458364) • [Instagram](https://instagram.com/dkc___2463)
 
-</p>
+---
+
+<i>Building production-grade software with AI, Security and Systems.</i>
+
+</div>
