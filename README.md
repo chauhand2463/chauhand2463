@@ -1,90 +1,30 @@
-<div align="center">
+# Hi 👋, I'm Dk Chauhan
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Dhairy%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+### A passionate learner 
 
-<b>Computer Engineering Student • AI/ML • Cyber Security • Web3 • Backend Systems</b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhand2463&label=Profile views&color=0e75b6&style=flat" alt="chauhand2463" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=chauhand2463&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/chauhand2463?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/chauhand2463?style=for-the-badge"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chauhand2463" alt="chauhand2463" /></a> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer;Backend+Developer;Cyber+Security+Enthusiast;Remote+Sensing+Researcher;Always+Learning"/>
+- 🌱 I'm currently learning **i am DSA practitioner and learning AI and security **
 
-**[About](#-about-me) • [Stack](#%EF%B8%8F-tech-stack) • [Analytics](#-github-analytics) • [Commit Timeline](#-commit-timeline) • [Focus](#-current-focus) • [Connect](#-connect)**
+- 👯 I'm looking to collaborate on **open source project **
 
----
+- 📫 How to reach me **dkc074837@gmail.com**
 
-## 🚀 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/chauhand2463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chauhand2463" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhairy-chauhan-448458364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairy-chauhan-448458364" height="30" width="40" /></a>
+<a href="https://instagram.com/dkc___2463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dkc___2463" height="30" width="40" /></a>
+</p>
 
-🎓 B.Tech Computer Engineering&nbsp;&nbsp;|&nbsp;&nbsp;🤖 AI / ML / Computer Vision&nbsp;&nbsp;|&nbsp;&nbsp;🔐 Cyber Security & DevSecOps
-<br/>
-🌐 Web3 & Smart Contracts&nbsp;&nbsp;|&nbsp;&nbsp;⚙️ High-performance backend systems&nbsp;&nbsp;|&nbsp;&nbsp;🛰️ Remote sensing & cloud removal research&nbsp;&nbsp;|&nbsp;&nbsp;🐧 Linux enthusiast
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhand2463&show_icons=true&locale=en&layout=compact" alt="chauhand2463" /></p>
 
-## 🛠️ Tech Stack
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&locale=en" alt="chauhand2463" /></p>
 
-<details>
-<summary><b>Click to expand full stack</b></summary>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhand2463&" alt="chauhand2463" /></p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,javascript,typescript,html,css,react,nextjs,nodejs,nestjs,tailwind,tensorflow,pytorch,docker,kubernetes,linux,aws,gcp,postgres,mysql,mongodb,redis,git,github,postman,vscode,bash,solidity&perline=8"/>
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<img width="410" src="https://github-readme-stats.vercel.app/api?username=chauhand2463&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhand2463&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="500" src="https://streak-stats.demolab.com?user=chauhand2463&theme=tokyonight&hide_border=true"/>
-
-<img width="600" src="https://github-profile-trophy.vercel.app/?username=chauhand2463&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-<img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=chauhand2463&theme=tokyo-night"/>
-
----
-
-## 🎮 Commit Timeline
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" width="750" src="https://raw.githubusercontent.com/chauhand2463/chauhand2463/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 📈 Profile Summary Cards
-
-<details>
-<summary><b>Click to expand summary cards</b></summary>
-<br/>
-
-<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhand2463&theme=tokyonight"/>
-<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chauhand2463&theme=tokyonight"/>
-<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chauhand2463&theme=tokyonight"/>
-
-</details>
-
----
-
-## 🎯 Current Focus
-
-AI Agents&nbsp;&nbsp;|&nbsp;&nbsp;Remote Sensing&nbsp;&nbsp;|&nbsp;&nbsp;Deep Learning&nbsp;&nbsp;|&nbsp;&nbsp;System Design&nbsp;&nbsp;|&nbsp;&nbsp;Web3&nbsp;&nbsp;|&nbsp;&nbsp;Backend Engineering&nbsp;&nbsp;|&nbsp;&nbsp;Open Source
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/dhairy-chauhan-448458364) • [Instagram](https://instagram.com/dkc___2463)
-
----
-
-<i>Building production-grade software with AI, Security and Systems.</i>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
-
-</div>
