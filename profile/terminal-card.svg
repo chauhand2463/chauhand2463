@@ -1,0 +1,88 @@
+<svg width="820" height="471" viewBox="0 0 820 471" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <rect x="1" y="1" width="818" height="469" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="818" height="36" rx="6" fill="#161b22"/>
+  <rect x="1" y="30" width="818" height="7" fill="#161b22"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6" fill="#27c93f"/>
+  <text x="410" y="24" fill="#8b949e" font-size="13" text-anchor="middle">bash — dhairy@charusat</text>
+
+  <!-- divider -->
+  <line x1="330" y1="37" x2="330" y2="470" stroke="#30363d" stroke-width="1"/>
+
+  <!-- left: ascii portrait -->
+  <text x="30" y="70" fill="#8b949e" font-size="12">$ render portrait.jpg --ascii</text>
+  <g fill="#3fb950" font-size="7.2">
+    <text x="30" y="96.0" xml:space="preserve">.                                                      .</text>
+    <text x="30" y="104.6" xml:space="preserve">.                                                      .</text>
+    <text x="30" y="113.2" xml:space="preserve">.                                                      .</text>
+    <text x="30" y="121.8" xml:space="preserve">.                                                      .</text>
+    <text x="30" y="130.4" xml:space="preserve">.                   ......                             .</text>
+    <text x="30" y="139.0" xml:space="preserve">.                 .:-:..                               .</text>
+    <text x="30" y="147.6" xml:space="preserve">.               ...:.                                  .</text>
+    <text x="30" y="156.2" xml:space="preserve">.              ..:.                                    .</text>
+    <text x="30" y="164.8" xml:space="preserve">.             .::.             .                       .</text>
+    <text x="30" y="173.4" xml:space="preserve">.             .:.            ...   .                   .</text>
+    <text x="30" y="182.0" xml:space="preserve">.            .::           ..:.:: .:                   .</text>
+    <text x="30" y="190.6" xml:space="preserve">.             :-        ..:.::...  .::.                .</text>
+    <text x="30" y="199.2" xml:space="preserve">.            .:-:     ....     .    ..::               .</text>
+    <text x="30" y="207.8" xml:space="preserve">.             .-:--:.:-.              : ...            .</text>
+    <text x="30" y="216.4" xml:space="preserve">.               . ::.--             .:      ...        .</text>
+    <text x="30" y="225.0" xml:space="preserve">.                 .: ::..          .:             ..   .</text>
+    <text x="30" y="233.6" xml:space="preserve">.                  :...::        .:-  .            ..  .</text>
+    <text x="30" y="242.2" xml:space="preserve">.                 .     :....  ::.  ..           .   . :</text>
+    <text x="30" y="250.8" xml:space="preserve">.                 .      ......               . .    . .</text>
+    <text x="30" y="259.4" xml:space="preserve">.                          ..                .         .</text>
+    <text x="30" y="268.0" xml:space="preserve">.                .         .   .            .. .       .</text>
+    <text x="30" y="276.6" xml:space="preserve">.                ..           .             . ..       :</text>
+    <text x="30" y="285.2" xml:space="preserve">.                 .                         ..:.       :</text>
+    <text x="30" y="293.8" xml:space="preserve">.                 .                         .--        .</text>
+    <text x="30" y="302.4" xml:space="preserve">.                 .                          :-.       .</text>
+    <text x="30" y="311.0" xml:space="preserve">.              .. .                           :.       .</text>
+    <text x="30" y="319.6" xml:space="preserve">.             ..  .                           ..       .</text>
+    <text x="30" y="328.2" xml:space="preserve">.             .   .                             ..     .</text>
+    <text x="30" y="336.8" xml:space="preserve">.            ..    .                             :     .</text>
+    <text x="30" y="345.4" xml:space="preserve">.            :....                                     .</text>
+    <text x="30" y="354.0" xml:space="preserve">.           ..   :                                     .</text>
+    <text x="30" y="362.6" xml:space="preserve">.           :    .                                 .   .</text>
+    <text x="30" y="371.2" xml:space="preserve">.          :    ..                                .:..::</text>
+    <text x="30" y="379.8" xml:space="preserve">.         ..    :     .                          .:    .</text>
+    <text x="30" y="388.4" xml:space="preserve">.         .     .                               .:     .</text>
+    <text x="30" y="397.0" xml:space="preserve">.        .:    .                                -      .</text>
+    <text x="30" y="405.6" xml:space="preserve">.        .      ..:. .                         ..  .   .</text>
+    <text x="30" y="414.2" xml:space="preserve">.       .    ..::..:.:...                    ..        :</text>
+    <text x="30" y="422.8" xml:space="preserve">.     .:.  ..:.:        .....::.....    ...  :      ....</text>
+  </g>
+  <text x="30" y="453.4" fill="#8b949e" font-size="12">D. CHAUHAN — CHARUSAT Univ. — Gujarat, India</text>
+
+  <!-- right: terminal content -->
+  <g font-size="13.5">
+    <text x="352" y="65" fill="#58a6ff">$ whoami</text>
+    <text x="352" y="86" fill="#c9d1d9">B.Tech CS/CE student — AI/ML, backend, remote sensing</text>
+
+    <text x="352" y="118" fill="#58a6ff">$ cat focus.txt</text>
+    <text x="352" y="139" fill="#c9d1d9">- Computer vision &amp; applied ML</text>
+    <text x="352" y="158" fill="#c9d1d9">- Backend systems (Node, Fastify, Postgres)</text>
+    <text x="352" y="177" fill="#c9d1d9">- Satellite imagery / remote sensing</text>
+    <text x="352" y="196" fill="#c9d1d9">- Web3 experiments</text>
+
+    <text x="352" y="228" fill="#58a6ff">$ echo $STACK</text>
+    <text x="352" y="249" fill="#ffa657">Languages </text>
+    <text x="452" y="249" fill="#c9d1d9">Python, C++, TypeScript</text>
+    <text x="352" y="268" fill="#ffa657">Backend   </text>
+    <text x="452" y="268" fill="#c9d1d9">Node.js, Express, PostgreSQL, Redis</text>
+    <text x="352" y="287" fill="#ffa657">AI / ML   </text>
+    <text x="452" y="287" fill="#c9d1d9">PyTorch, TensorFlow, OpenCV</text>
+    <text x="352" y="306" fill="#ffa657">Tools     </text>
+    <text x="452" y="306" fill="#c9d1d9">Docker, Git, AWS</text>
+
+    <text x="352" y="338" fill="#58a6ff">$ cat status.txt</text>
+    <text x="352" y="359" fill="#c9d1d9">Open to collaborating on open-source projects</text>
+
+    <text x="352" y="391" fill="#58a6ff">$ ls socials/</text>
+    <text x="352" y="412" fill="#c9d1d9">github.com/chauhand2463</text>
+    <text x="352" y="431" fill="#c9d1d9">linkedin.com/in/dhairy-chauhan-448458364</text>
+  </g>
+</svg>
