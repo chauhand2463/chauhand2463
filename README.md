@@ -1,168 +1,165 @@
-<p align="center">
-  <img src="./profile/terminal-card.svg" width="100%" alt="Terminal Card">
+# <h2>Hi, I'm Dhairy Chauhan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+
+<p>
+<em>
+Computer Engineering Student at <strong>CHARUSAT University</strong> 🎓<br>
+AI • Machine Learning • Full Stack Developer • Open Source Enthusiast 🚀
+</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=00FF88&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Backend+Development;Building+Projects+One+Commit+at+a+Time;Always+Learning+Something+New" />
-</p>
+<p>
+<a href="https://github.com/chauhand2463">
+<img src="https://img.shields.io/github/followers/chauhand2463?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/chauhand2463">
-    <img src="https://img.shields.io/badge/GitHub-chauhand2463-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/dhairy-chauhan-448458364">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhairy%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:dkc074837@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
-  </a>
+<a href="https://github.com/chauhand2463">
+<img src="https://img.shields.io/github/stars/chauhand2463?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<a href="mailto:dkc074837@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhairy-chauhan-448458364/">
+<img src="https://img.shields.io/badge/LinkedIn-Dhairy%20Chauhan-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
 ---
 
-```cpp
-class Dhairy {
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> About Me
 
-public:
+```javascript
+const dhairy = {
+    name: "Dhairy Chauhan",
 
-    string role = "Computer Engineering Student";
+    pronouns: "he/him",
 
-    vector<string> interests = {
+    education: "B.Tech Computer Engineering @ CHARUSAT",
 
+    location: "Gujarat, India",
+
+    currentFocus: [
         "Artificial Intelligence",
         "Machine Learning",
-        "Backend Engineering",
+        "Deep Learning",
+        "Full Stack Development",
+        "System Design"
+    ],
+
+    languages: [
+        "Python",
+        "C++",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "SQL"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "FastAPI",
+        "Express",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+    ],
+
+    ai_ml: [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-Learn",
+        "OpenCV",
+        "YOLO",
+        "Transformers",
+        "LangChain",
+        "Hugging Face"
+    ],
+
+    devOps: [
+        "Docker",
+        "Git",
+        "GitHub Actions",
+        "Linux",
+        "VS Code"
+    ],
+
+    architecture: [
+        "REST APIs",
+        "Microservices",
+        "Event-Driven Systems",
+        "RAG Applications",
+        "LLM Workflows"
+    ],
+
+    currentlyBuilding: [
+        "System2ML",
+        "AI Classroom Monitor",
+        "FortifyCI",
+        "CloudClear-L4"
+    ],
+
+    currentlyLearning: [
+        "MLOps",
         "Computer Vision",
-        "Open Source"
+        "LLMs",
+        "Distributed Systems",
+        "Cloud Computing"
+    ],
 
-    };
+    hobbies: [
+        "Open Source",
+        "Competitive Programming",
+        "Building AI Products",
+        "Learning New Technologies"
+    ],
 
-    void life() {
-
-        while(alive){
-
-            Learn();
-            Build();
-            Share();
-            Improve();
-        }
-    }
+    funFact: "I enjoy turning complex AI ideas into real-world applications."
 };
 ```
 
 ---
 
-# GitHub
+## 🚀 What I'm Working On
 
-<p align="center">
-
-<img width="49%" src="./profile/stats.svg"/>
-
-<img width="49%" src="./profile/top-langs.svg"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="./profile/streak.svg"/>
-
-</p>
+* 🤖 AI & Machine Learning Projects
+* 🧠 Large Language Models (LLMs)
+* ☁️ Cloud & MLOps
+* 💻 Full Stack Web Applications
+* 📊 Computer Vision
+* 📚 Open Source Contributions
 
 ---
 
-# Contribution Activity
+## 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhand2463&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/chauhand2463/chauhand2463/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+* 🚀 Build production-ready AI applications
+* 📖 Master Deep Learning
+* 🌍 Contribute more to Open Source
+* 🏆 Solve 1000+ DSA problems
+* ⚡ Learn Distributed Systems
+* 🤝 Collaborate on impactful projects
 
 ---
 
-# Toolbox
+## 💡 Favorite Quote
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,ts,nodejs,express,fastapi,nextjs,postgres,mongodb,redis,docker,linux,git,github,pytorch,tensorflow,opencv,aws"/>
-
-</p>
+> "First, solve the problem. Then, write the code."
 
 ---
 
-# Development Environment
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-```text
-OS          :: Windows 11 • Fedora Linux
+### I enjoy collaborating with developers, contributing to open source, and building AI-powered products. If you're working on something interesting, let's connect!
 
-Editor      :: VS Code • Zed
-
-Terminal    :: PowerShell • Bash
-
-Languages   :: Python • C++ • TypeScript • Go
-
-Backend     :: FastAPI • Node.js • PostgreSQL
-
-AI Stack    :: PyTorch • TensorFlow • OpenCV
-
-Tools       :: Docker • Git • Linux • Ollama
-```
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://github.com/chauhand2463">
-<img src="https://skillicons.dev/icons?i=github" height="45">
-</a>
-
-<a href="https://linkedin.com/in/dhairy-chauhan-448458364">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45">
-</a>
-
-<a href="mailto:dkc074837@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=chauhand2463&style=flat&color=0d1117"/>
-
-</p>
-
-<p align="center">
-
-```bash
-$ whoami
-
-dhairy
-
-$ git log --oneline
-
-✓ AI
-✓ Backend
-✓ Machine Learning
-✓ Open Source
-
-$ echo "Keep Building."
-
-Keep Building.
-```
-
-</p>
+⭐ Thanks for visiting my profile!
