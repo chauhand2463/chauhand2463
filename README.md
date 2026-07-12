@@ -1,165 +1,81 @@
-# <h2>Hi, I'm Dhairy Chauhan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!-- ========================= CURRENT FOCUS ========================= -->
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+## 🚀 Current Focus
 
-<p>
-<em>
-Computer Engineering Student at <strong>CHARUSAT University</strong> 🎓<br>
-AI • Machine Learning • Full Stack Developer • Open Source Enthusiast 🚀
-</em>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<a href="https://github.com/chauhand2463">
-<img src="https://img.shields.io/github/followers/chauhand2463?label=Followers&style=for-the-badge&logo=github"/>
-</a>
+### 💻 Learning & Building
 
-<a href="https://github.com/chauhand2463">
-<img src="https://img.shields.io/github/stars/chauhand2463?affiliations=OWNER&style=for-the-badge"/>
-</a>
+- 🤖 Building **CloudClear-L4** – Generative AI for cloud removal and reconstruction in satellite imagery
+- 💻 Learning **Backend Engineering** with modern frameworks and scalable APIs
+- 🧠 Exploring **Machine Learning, Deep Learning, and Large Language Models (LLMs)**
+- ☁️ Learning **Cloud Computing, Docker, Kubernetes, and MLOps**
+- 📊 Developing **Computer Vision** applications using Python and OpenCV
+- 📚 Contributing to **Open Source** projects and improving development workflows
 
-<a href="mailto:dkc074837@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</td>
 
-<a href="https://www.linkedin.com/in/dhairy-chauhan-448458364/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhairy%20Chauhan-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+<td width="50%" valign="top">
 
----
+### 📈 Currently Learning
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> About Me
+- ⚙️ Backend Architecture & REST APIs
+- 🗄️ SQL & NoSQL Databases
+- 🔐 Authentication & Authorization
+- 🚀 System Design Fundamentals
+- ☁️ Cloud Deployment & CI/CD
+- 🏆 Data Structures & Algorithms (DSA)
 
-```javascript
-const dhairy = {
-    name: "Dhairy Chauhan",
-
-    pronouns: "he/him",
-
-    education: "B.Tech Computer Engineering @ CHARUSAT",
-
-    location: "Gujarat, India",
-
-    currentFocus: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
-        "Full Stack Development",
-        "System Design"
-    ],
-
-    languages: [
-        "Python",
-        "C++",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "SQL"
-    ],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "HTML",
-        "CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "FastAPI",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis"
-    ],
-
-    ai_ml: [
-        "PyTorch",
-        "TensorFlow",
-        "Scikit-Learn",
-        "OpenCV",
-        "YOLO",
-        "Transformers",
-        "LangChain",
-        "Hugging Face"
-    ],
-
-    devOps: [
-        "Docker",
-        "Git",
-        "GitHub Actions",
-        "Linux",
-        "VS Code"
-    ],
-
-    architecture: [
-        "REST APIs",
-        "Microservices",
-        "Event-Driven Systems",
-        "RAG Applications",
-        "LLM Workflows"
-    ],
-
-    currentlyBuilding: [
-        "System2ML",
-        "AI Classroom Monitor",
-        "FortifyCI",
-        "CloudClear-L4"
-    ],
-
-    currentlyLearning: [
-        "MLOps",
-        "Computer Vision",
-        "LLMs",
-        "Distributed Systems",
-        "Cloud Computing"
-    ],
-
-    hobbies: [
-        "Open Source",
-        "Competitive Programming",
-        "Building AI Products",
-        "Learning New Technologies"
-    ],
-
-    funFact: "I enjoy turning complex AI ideas into real-world applications."
-};
-```
-
----
-
-## 🚀 What I'm Working On
-
-* 🤖 AI & Machine Learning Projects
-* 🧠 Large Language Models (LLMs)
-* ☁️ Cloud & MLOps
-* 💻 Full Stack Web Applications
-* 📊 Computer Vision
-* 📚 Open Source Contributions
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build production-ready AI applications
-* 📖 Master Deep Learning
-* 🌍 Contribute more to Open Source
-* 🏆 Solve 1000+ DSA problems
-* ⚡ Learn Distributed Systems
-* 🤝 Collaborate on impactful projects
+- 🚀 Build production-ready AI & Backend applications
+- 🤖 Complete **CloudClear-L4** and publish the project
+- 💻 Become proficient in Backend Engineering
+- 🧠 Master Deep Learning and Generative AI
+- ☁️ Learn Cloud Infrastructure, Kubernetes & MLOps
+- 🏆 Solve **1000+ DSA** problems across major coding platforms
+- 🌍 Make meaningful Open Source contributions
+- ⚡ Learn Distributed Systems & System Design
+- 📖 Read technical books and research papers consistently
+- 🤝 Collaborate on impactful real-world projects
 
 ---
 
-## 💡 Favorite Quote
+## 🛠️ Tech I'm Working With
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,go,typescript,javascript,nodejs,express,fastapi,react,nextjs,tailwind,postgres,mysql,mongodb,docker,kubernetes,git,github,vscode,linux,bash,tensorflow,pytorch,opencv&perline=13"/>
+
+</p>
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## 📚 Currently Studying
 
-### I enjoy collaborating with developers, contributing to open source, and building AI-powered products. If you're working on something interesting, let's connect!
+```text
+Backend Engineering     ███████████░░░░
+Data Structures         ██████████░░░░░
+Machine Learning        ███████████░░░░
+Deep Learning           ████████░░░░░░░
+Computer Vision         █████████░░░░░░
+Cloud & MLOps           ███████░░░░░░░░
+System Design           ██████░░░░░░░░░
+Open Source             ████████░░░░░░░
+```
 
-⭐ Thanks for visiting my profile!
+---
+
+## 💡 Current Mission
+
+> Building scalable backend systems, mastering AI & Machine Learning, solving DSA consistently, and developing real-world applications that create meaningful impact.
+
+---
