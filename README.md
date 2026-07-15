@@ -44,26 +44,13 @@ const dhairy = {
     currentFocus: [
         "Artificial Intelligence",
         "Machine Learning",
-        "Deep Learning",
-        "Full Stack Development",
-        "System Design"
+        "Backend Development",
     ],
 
     languages: [
         "Python",
         "C++",
-        "TypeScript",
-        "JavaScript",
-        "Go",
-        "SQL"
-    ],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "HTML",
-        "CSS"
+        "C and Java",
     ],
 
     backend: [
@@ -103,9 +90,6 @@ const dhairy = {
     ],
 
     currentlyBuilding: [
-        "System2ML",
-        "AI Classroom Monitor",
-        "FortifyCI",
         "CloudClear-L4"
     ],
 
@@ -114,7 +98,7 @@ const dhairy = {
         "Computer Vision",
         "LLMs",
         "Distributed Systems",
-        "Cloud Computing"
+        "System Administration"
     ],
 
     hobbies: [
