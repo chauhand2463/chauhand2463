@@ -112,33 +112,6 @@ const dhairy = {
 };
 ```
 
----
-
-## 🚀 What I'm Working On
-
-🤖 Building CloudClear-L4, a Generative AI project for cloud removal and reconstruction in satellite imagery
-💻 Learning Backend Engineering by building scalable APIs and backend systems
-🧠 Exploring Machine Learning, Deep Learning, and Large Language Models (LLMs)
-☁️ Learning Cloud Computing, Docker, and MLOps
-📊 Developing Computer Vision applications
-🏆 Practicing Data Structures & Algorithms (DSA) consistently
-📚 Contributing to Open Source and improving developer tools
-
----
-
-## 🎯 2026 Goals
-
-🚀 Build production-ready AI and backend applications
-🤖 Successfully complete CloudClear-L4
-💻 Become proficient in Backend Engineering
-🧠 Build expertise in Machine Learning and Deep Learning
-☁️ Gain hands-on experience with Cloud Computing and MLOps
-🏆 Solve DSA problems
-🌍 Make consistent Open Source contributions
-🤝 Collaborate on impactful real-world projects
-
----
-
 ## 💡 Favorite Quote
 
 > "First, solve the problem. Then, write the code."
