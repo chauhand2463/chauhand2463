@@ -5,7 +5,7 @@
 <p>
 <em>
 Computer Engineering Student at <strong>CHARUSAT University</strong> 🎓<br>
-AI • Machine Learning • Full Stack Developer • Open Source Enthusiast 🚀
+AI • Machine Learning • backend Development • Open Source Enthusiast 🚀
 </em>
 </p>
 
