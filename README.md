@@ -90,7 +90,9 @@ const dhairy = {
     ],
 
     currentlyBuilding: [
-        "CloudClear-L4"
+        "GeoRestore-AI"
+        "Troubleshooting without IoC"
+        "Contributing in Ghidra" 
     ],
 
     currentlyLearning: [
